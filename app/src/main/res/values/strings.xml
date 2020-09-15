@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">example_fin_model1</string>
+    <string name="Empleado">Empleado</string>
+    <string name="Salario">Salario</string>
+    <string name="Horas_Extra">Horas Extras</string>
+    <string name="Valor_hora_Extra">Valor Horas  Extra</string>
+    <string name="Pensiòn">Pensiòn 4%</string>
+    <string name="Salud">Salud 4%</string>
+    <string name="Salario_Total">Salario Total</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Salario_minimo">Salario Minimo</string>
+    <string name="Limpiar_Datos">Limpiar Datos</string>
+</resources>
